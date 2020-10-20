@@ -17,7 +17,7 @@
 		"ejs": "^2.6.1",
 		"express": "^4.16.3",
 		"express-validator": "^5.3.0",
-		"nodemon": "^1.18.3",
+		"nodemon": "^2.0.6",
 		"socket.io": "^2.1.1"
 	},
 	"devDependencies": {
@@ -31,7 +31,7 @@
 		"babel-plugin-transform-runtime": "^6.23.0",
 		"babel-polyfill": "^6.1.4",
 		"eslint-plugin-babel": "^5.1.0",
-		"nodemon": "^1.18.2",
+		"nodemon": "^2.0.6",
 		"rm": "^0.1.8"
 	},
 	"babel": {
